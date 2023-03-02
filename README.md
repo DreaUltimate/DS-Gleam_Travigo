@@ -1,10 +1,10 @@
 # DS-Gleam Travigo
-# Pre-requisites: Nothings! just stuck into this tutorial
+# Pre-requisites: Node.js (npm install)
 This project is developed and designed by DS-Dev (`#Dius_Montenegro 😅🚀🚀🚀`).
 This is a [Vite.js](https://vitejs.dev/) project bootstrapped with [`npm create vite@latest`]. Designed with TailwindCSS!
 # Important Links: 📣📢📣📢📣📢✈✈✈
-### Go to ViteJS [https://vitejs.dev/] (https://vitejs.dev/)!
-### Go to TailwindCSS [https://tailwindcss.com/](https://tailwindcss.com/)!
+### Go to ViteJS (https://vitejs.dev/)!
+### Go to TailwindCSS (https://tailwindcss.com/)!
 
 # Required Packages:
 ```bash
@@ -32,7 +32,7 @@ npm run dev
 # or
 yarn dev
 ```
-Open [http://localhost:5173/](http://localhost:5173/) with your browser to see the result.
+Open (http://localhost:5173/) with your browser to see the result.
 
 You can start editing the page by modifying `src/App.jsx`. The page auto-updates as you edit the file.
 
