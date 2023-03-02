@@ -37,4 +37,4 @@ Open (http://localhost:5173/) with your browser to see the result.
 You can start editing the page by modifying `src/App.jsx`. The page auto-updates as you edit the file.
 
 ## Deploy on Vercel
-Check out our [This Project On Vercel](ds-gleam-travigo.vercel.app) for more details.
+Check out our [This Project On Vercel](https://ds-gleam-travigo.vercel.app) for more details.
